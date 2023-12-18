@@ -10,7 +10,7 @@ I believe that learning should be a lifelong pursuit, and I'm always on the look
 
 [Beyond the Binary: Rethinking the Nature vs. Nurture Debate](article-1.md)
 
-There is ongoing debate in psychology and philosophy about the extent to which nature (i.e., genetics, biology) or nurture (i.e., environment,...
+There is ongoing debate in psychology and philosophy about the extent to which nature (i.e., _genetics_, _biology_) or nurture (i.e., _environment_, _experience_) shapes...
 
 <br/><br/>
 
@@ -18,4 +18,4 @@ There is ongoing debate in psychology and philosophy about the extent to which n
 
 [Using context-free grammars (CFGs) to model and analyze DNA genetic sequences](article-2.md)
 
-First and foremost, I am not an expert in the field of biology. Errors and/or mistakes might be up ahead. However, it is my gratitude to...
+The genetic sequence of DNA can be represented using a context-free grammar (CFG) which can be deterministic or non-deterministic. While the CFG is a formal...
