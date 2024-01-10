@@ -6,7 +6,7 @@ I believe that learning should be a lifelong pursuit, and I'm always on the look
 
 ## My Articles
 
-<div>
+<div style="display: block">
 <img src="assets/1/1.png" align="left" width="300" />
 
 [Beyond the Binary: Rethinking the Nature vs. Nurture Debate](article-1.md)
@@ -17,19 +17,18 @@ There is ongoing debate in psychology and philosophy about the extent to which n
 
 ---
 
-<div>
+<div style="display: block">
 <img src="assets/2/1.png" align="left" width="300" />
 
 [Using context-free grammars (CFGs) to model and analyze DNA genetic sequences](article-2.md)
 
 The genetic sequence of DNA can be represented using a context-free grammar (CFG) which can be deterministic or non-deterministic. While the CFG is a formal...
 
-<br/>
 </div>
 
 ---
 
-<div>
+<div style="display: block">
 <img src="assets/3/1.png" align="left" width="300" />
 
 [Discovering New Worlds with Julia-lang: Introduction to How Exoplanets are Found and Studied](article-3.md)
