@@ -22,8 +22,6 @@ There is ongoing debate in psychology and philosophy about the extent to which n
 
 The genetic sequence of DNA can be represented using a context-free grammar (CFG) which can be deterministic or non-deterministic. While the CFG is a formal...
 
-<br/>
-
 ---
 
 <img src="assets/3/1.png" align="left" width="300" />
