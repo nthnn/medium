@@ -12,6 +12,8 @@ I believe that learning should be a lifelong pursuit, and I'm always on the look
 
 There is ongoing debate in psychology and philosophy about the extent to which nature (i.e., _genetics_, _biology_) or nurture (i.e., _environment_, _experience_) shapes human behavior. While there is no...
 
+<br/>
+
 ---
 
 <img src="assets/2/1.png" align="left" width="300" />
@@ -19,6 +21,8 @@ There is ongoing debate in psychology and philosophy about the extent to which n
 [Using context-free grammars (CFGs) to model and analyze DNA genetic sequences](article-2.md)
 
 The genetic sequence of DNA can be represented using a context-free grammar (CFG) which can be deterministic or non-deterministic. While the CFG is a formal...
+
+<br/>
 
 ---
 
