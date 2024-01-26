@@ -12,6 +12,8 @@ I believe that learning should be a lifelong pursuit, and I'm always on the look
 
 n the vast world of programming, few languages possess the versatility and power that C++ offers. As a language known for its efficiency, performance, and wide range of applications, C++ has become a...
 
+<br/>
+
 ---
 
 <img src="assets/3/1.png" align="left" width="400" />
