@@ -6,6 +6,14 @@ I believe that learning should be a lifelong pursuit, and I'm always on the look
 
 ## My Articles
 
+<img src="assets/4/1.png" align="left" width="400" />
+
+[Alchemic C++: Where the Magic Happens](article-4.md)
+
+n the vast world of programming, few languages possess the versatility and power that C++ offers. As a language known for its efficiency, performance, and wide range of applications, C++ has become a...
+
+---
+
 <img src="assets/3/1.png" align="left" width="400" />
 
 [Discovering New Worlds with Julia-lang: Introduction to How Exoplanets are Found and Studied](article-3.md)
